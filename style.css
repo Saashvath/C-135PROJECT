@@ -1,0 +1,83 @@
+.class1{
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 15%;
+    background-color: red;
+    color: black;
+}
+
+.class2{
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 15%;
+    background-color: red;
+    color: black;
+}
+
+
+.class3{
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 15%;
+    background-color: red;
+    color: black;
+}
+
+
+.class4{
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 15%;
+    background-color: red;
+    color: black;
+}
+
+
+
+.class5{
+
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 15%;
+    background-color: red;
+    color: black;
+}
+
+.heading{
+
+    font-weight: bold;
+    color: indianred;
+}
+
+
+
+
+
+canvas{
+
+    box-shadow: 4px 4px 5px aqua;
+    border-radius: 20px;
+    border: 3px solid pink ;
+    margin-top : 55px;
+}
+
+
+.mobile_answer{
+
+    font-size: 25px;
+    color: blue;
+}
+
+body{
+
+    background-size: cover;
+}
